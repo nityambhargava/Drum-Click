@@ -1,4 +1,3 @@
-Sure! Here's a template for your README file:
 
 ```markdown
 # Drum Kit Project
