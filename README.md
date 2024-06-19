@@ -11,9 +11,6 @@ This project is a simple drum kit web application created using HTML, CSS, and J
 - Visual representation of the drum parts on the keys
 - Responsive design
 
-## Project Overview
-![image](https://github.com/nityambhargava/Drum-click/assets/149382373/c86b6366-e0d6-49dc-a11c-d7974b43e44e)
-
 ## Technologies Used
 
 - HTML5
@@ -31,6 +28,9 @@ This project is a simple drum kit web application created using HTML, CSS, and J
    cd drum-kit-project
    ```
 3. Open `index.html` in your preferred web browser.
+
+## Project Overview
+![Screenshot 2024-06-19 132041](https://github.com/nityambhargava/Drum-click/assets/149382373/4f0afa53-dcc6-44a7-b517-58cf918f4146)
 
 ## Usage
 
